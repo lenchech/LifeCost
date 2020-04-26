@@ -1,0 +1,4 @@
+#include stdio.c
+int a, b, c, A, B, C;
+printf ("ordinary cost");
+scanf 
