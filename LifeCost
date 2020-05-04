@@ -6,6 +6,7 @@ int main() {
 	std::cout << "hello world" << std::endl;
 	std::cout << "Here to calculate your LifeTime Cost" << std::endl;
 	int Food, Clothing, Housing, Transportation, Education, Entertainment = 0;
+	vector<>
 	
 	//Food
 	std::cout << "How much to you spend for meal per day?" << std::endl;
@@ -14,8 +15,8 @@ int main() {
 	std::cout << "You will spend " << Food*365 << " per year." << std::endl;
 	
 	//Clothing
-	std::cout << "How much to you spend cloth per season?" << std::endl;
-	
+	std::cout << "How much to you spend on cloth every season? (spring, summer, fall, winter)" << std::endl;
+	pushback
 	
 	
 	return 0;
